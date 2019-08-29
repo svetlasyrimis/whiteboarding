@@ -44,7 +44,7 @@ Example output:
 lastCharacter('apples', 'pumpkins');  ==> true
 lastCharacter('marker', 'pen'); => false
 ```
-
+____________
 3. Write a function called **filterTriples** receives an array of numbers
 as a parameter and should return an array without any number that is a multiple of 3 but keep the rest.
 
