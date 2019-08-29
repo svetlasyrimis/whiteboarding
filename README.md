@@ -34,7 +34,7 @@ uniqueInOrder('AAAABBBCCDAABBB') ==> ['A', 'B', 'C', 'D', 'A', 'B']
 uniqueInOrder('ABBCcAD')         ==> ['A', 'B', 'C', 'c', 'A', 'D']
 uniqueInOrder([1,2,2,3,3])       ==> [1,2,3]
 ```
-
+____________
 2. Define a function **lastCharacter** that accepts two strings as arguments.
 The function should return true if both strings end with the same character. Otherwise,it should return false.
 
